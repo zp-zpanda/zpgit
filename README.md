@@ -1,5 +1,21 @@
-# Git Source Code Mirror & Development Dump
+# Source Code Mirror & Development Dump for Git-Related Projects
 
-This repository is a Git mirror and a personal space for my Git-related projects. Feel free to take a look.
+This repository is a mirror and a personal space for my Git-related projects. Feel free to take a look.
 
-The Git mirror is at the [git-upstream](https://github.com/zp-zpanda/git/tree/git-upstream/) branch. It only receives updates from [the upstream Git mirror](https://github.com/git/git/tree/master/). The current diff is available [here](https://github.com/zp-zpanda/git/compare/git-upstream...git:git:master/).
+# Upstream mirrors
+
+All the mirrors listed here are read-only. They only receive updates from their respective upstreams.
+
+| Project | Mirror Branch | Upstream Branch | Current Diff |
+| - | - | - | - |
+| Git | [git](https://github.com/zp-zpanda/git/tree/git/) | [git/master](https://github.com/git/git/tree/master/) | [git..git/master](https://github.com/zp-zpanda/git/compare/git...git:git:master/) |
+| Isomorphic Git | [iso-git](https://github.com/zp-zpanda/git/tree/iso-git/) | [isomorphic-git/main](https://github.com/isomorphic-git/isomorphic-git/tree/main/) | [iso-git..isomorphic-git/main](https://github.com/zp-zpanda/git/compare/iso-git...isomorphic-git:isomorphic-git:main) |
+
+# My projects
+
+I am planning to implement Git as a library in multiple programming languages. Git CLI replacements based on these libs may also be out in the future!
+
+| Language | Local Branch | Repo | Lib? | CLI? |
+| - | - | - | - | - |
+| C | | | :x: | :x: |
+| C# | | | :x: | :x: |
