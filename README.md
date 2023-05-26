@@ -18,4 +18,4 @@ I am planning to implement Git as a library in multiple programming languages. G
 | Language | Mirror Branch | Repo | Lib? | CLI? |
 | - | - | - | - | - |
 | C | | | :x: | :x: |
-| C# | | | :x: | :x: |
+| C# | [implementations/csharp](https://github.com/zp-zpanda/git/tree/implementations/csharp/) | [ZP.CSharp.ZPGit](https://github.com/zp-zpanda/zp.csharp.zpgit/) | :x: | :x: |
