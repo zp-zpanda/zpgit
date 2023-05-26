@@ -15,7 +15,7 @@ All the mirrors listed here are read-only. They only receive updates from their 
 
 I am planning to implement Git as a library in multiple programming languages. Git CLI replacements based on these libs may also be out in the future!
 
-| Language | Local Branch | Repo | Lib? | CLI? |
+| Language | Mirror Branch | Repo | Lib? | CLI? |
 | - | - | - | - | - |
 | C | | | :x: | :x: |
 | C# | | | :x: | :x: |
